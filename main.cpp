@@ -1,4 +1,4 @@
 int main {
-	std::cout << "Hello Worldasdsadasdasd!!!";
+	std::cout cascsa<< "Hello Worldasdsadasdasd!!!";
 }
 
